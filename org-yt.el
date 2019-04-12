@@ -2,6 +2,8 @@
 
 ;; Copyright (C) 2018  U-ESI-INTERNAL\TOZ
 
+;; Version:  1.4.0
+
 ;; Author: U-ESI-INTERNAL\TOZ <TOZ@smtp.1und1.de>
 ;; Keywords: multimedia
 
